@@ -1,4 +1,4 @@
-# Site de Rencontres Inter
+# Site de Rencontres Inter-écoles IMT
 
 Notre projet consiste en une application qui favorise les échanges et l’inter-aide entre les étudiants des écoles IMT (Institut Mines Télécom), permettant de fournir une plateforme pour partager et/ou suivre des cours proposés par d'autres étudiants.
 
